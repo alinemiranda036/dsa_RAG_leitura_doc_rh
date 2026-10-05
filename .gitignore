@@ -1,0 +1,20 @@
+# Chave da API (nunca enviar ao GitHub)
+.env
+
+# Banco vetorial gerado localmente pelo ChromaDB
+chroma_db_data/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

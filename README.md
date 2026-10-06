@@ -349,9 +349,6 @@ streamlit run dsa_app.py --server.port 8502
 
 Projeto de Pós-Graduação, desenvolvido para fins de estudo e portfólio durante a Pós-Graduação em Engenharia de Dados para IA da Data Science Academy. Não possui licença de uso comercial.
 
-## 📞 Contato
-
-Dúvidas ou sugestões sobre o projeto? Entre em contato comigo: **aline.abm97@gmail.com**
 
 ## 🎓 Referências
 
